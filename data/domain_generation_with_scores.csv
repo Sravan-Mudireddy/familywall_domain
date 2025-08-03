@@ -1,0 +1,16 @@
+Business Type,Complexity,Description,is_safe,generated_domain,score,status
+Language Learning App,Medium,App to learn foreign languages through gamified lessons,True,,,blocked
+Fitness Coaching Platform,Medium,Fitness Coaching Platform that is expanding its reach,True,,,blocked
+Travel Planning App,Medium,AI-powered app to create personalized travel itineraries,True,,,blocked
+Remote Work Job Board,Low,Job board connecting freelancers and remote-friendly companies,True,jobboard.com,4.5,success
+Virtual Fitness Classes,Medium,Subscription-based platform offering live fitness classes,True,,,blocked
+Eco-Friendly Home Cleaning Service,Low,"Eco-Friendly Home Cleaning Service that caters to a small, local area",True,,,blocked
+Luxury Skincare Line,High,Luxury Skincare Line expanding internationally,True,,,blocked
+Sustainable Fashion Brand,Medium,Sustainable Fashion Brand that is expanding its reach,True,,,blocked
+Parenting Support Group,Low,Online community and resource hub for new parents,True,,,blocked
+Organic Coffee Shop,High,Organic Coffee Shop that serves international customers,True,.com,4.5,success
+Pet Grooming Studio,Medium,Pet Grooming Studio that is expanding its reach,True,,,blocked
+Online Bookstore,Low,A digital bookstore for rare and out-of-print books,True,bookstore.com,4.0,success
+Green Energy Consulting,Medium,Consulting firm specializing in sustainable energy transitions,True,,,blocked
+3D Printing Marketplace,High,Marketplace for sharing and selling 3D print designs,True,,,blocked
+AI Chatbot for Mental Health,High,AI-powered chatbot platform that supports mental wellness,True,,,blocked
